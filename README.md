@@ -10,3 +10,6 @@ This is the purpose section
 This is the deployment section
 
 ## How to contribute
+This is the contribution section
+
+## Ending section
